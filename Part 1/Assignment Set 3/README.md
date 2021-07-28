@@ -12,7 +12,7 @@ Click on the question numbers to redirect to the question webpage.
 [3.](https://infytq.onwingspan.com/en/viewer/hands-on/lex_auth_01269441913243238467_shared?collectionId=lex_auth_0125409616243425281061_shared&collectionType=Course) Write a python function, create_largest_number(), which accepts a list of numbers and returns the largest number possible by concatenating the list of numbers.<br> 
     **Note**: Assume that all the numbers are two digit numbers.<br> 
     
-    ![q3](https://user-images.githubusercontent.com/64722906/127280620-d9fe1762-ff30-4fa2-b8a9-755606e3ed12.png)
+![q3](https://user-images.githubusercontent.com/64722906/127280890-a6cd9e5e-7eef-4c99-8551-dc244d300e0b.png)
 
 [4.](https://infytq.onwingspan.com/en/viewer/hands-on/lex_auth_012693819159732224162_shared?collectionId=lex_auth_0125409616243425281061_shared&collectionType=Course) Write a function, check_palindrome() to check whether the given string is a palindrome or not. The function should return true if it is a palindrome else it should return       false.<br>
     **Note**: Initialize the string with various values and test your program. Assume that all the letters in the given string are all of the same case. Example: MAN, civic, WOW     etc.<br>
@@ -20,7 +20,7 @@ Click on the question numbers to redirect to the question webpage.
 [5.](https://infytq.onwingspan.com/en/viewer/hands-on/lex_auth_012693816331657216161_shared?collectionId=lex_auth_0125409616243425281061_shared&collectionType=Course) Given a string containing uppercase characters (A-Z), compress the string using Run Length encoding. Repetition of character has to be replaced by storing the length of that     run.<br>
     Write a python function which performs the run length encoding for a given String and returns the run length encoded String. Provide different String values and test your       program <br>
     
-    ![q5](https://user-images.githubusercontent.com/64722906/127280750-45e45ab2-0cac-40fd-b36e-c9c82da7baf1.png)
+![q5](https://user-images.githubusercontent.com/64722906/127280918-af113557-0b69-4835-a7fc-39b5c1dbae5c.png)
     
 [6.](https://infytq.onwingspan.com/en/viewer/hands-on/lex_auth_01269442027919769669_shared?collectionId=lex_auth_0125409616243425281061_shared&collectionType=Course) A teacher is conducting a camp for a group of five children. Based on their performance and behavior during the camp, the teacher rewards them with chocolates.<br>
     Write a Python function to<br>
